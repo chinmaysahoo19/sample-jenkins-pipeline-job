@@ -1,4 +1,4 @@
-node ('master'){
+node {
    // Mark the code checkout 'stage'....
    stage 'Checkout'
    checkout scm
