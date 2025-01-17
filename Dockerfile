@@ -1,4 +1,4 @@
-FROM java:8-jdk
+FROM openjdk
 
 MAINTAINER ayache khettar <ayache.khettar@infinityworks.com>
 
